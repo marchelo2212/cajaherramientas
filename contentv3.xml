@@ -73,7 +73,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="1"></bool>
+  <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -89,7 +89,7 @@
   <string role="key" value="_loadMathEngine"></string>
   <bool value="0"></bool>
   <string role="key" value="_name"></string>
-  <unicode value="V2-Caja_Herramientas"></unicode>
+  <unicode value="V3-CAJA_HERRAMIENTAS_1806"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="39"></int>
   <string role="key" value="_nextNodeId"></string>
@@ -176,6 +176,8 @@
            <string value=""></string>
            <string role="key" value="anchor_names"></string>
            <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
            <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div class=&quot;exe-fx exe-timeline&quot;&gt;
 &lt;h2&gt;¿En qué consiste esta caja de herramientas?&lt;/h2&gt;
@@ -309,6 +311,8 @@
                     <string value=""></string>
                     <string role="key" value="anchor_names"></string>
                     <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;¡Manos a la obra! Una vez que hayas &lt;strong&gt;elegido la estrategia&lt;/strong&gt; de la &quot;Caja de Herramientas para la Ciudadanía Digital&quot; que mejor se adapta a tu contexto y objetivos, es momento de planificar tu &lt;strong&gt;Acción Transformadora&lt;/strong&gt;. Para que tu implementación sea exitosa y genere un impacto positivo, te recomendamos seguir estos pasos:&lt;/p&gt;
 &lt;h2&gt;1. Define tu Norte:&lt;/h2&gt;
@@ -323,7 +327,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&lt;strong&gt;Preguntas Guía:&lt;/strong&gt;&lt;/em&gt; Formula preguntas que guíen la reflexión y el aprendizaje durante la acción. Por ejemplo: &quot;¿Qué es el ciberacoso?&quot;, &quot;¿Cómo puedo proteger mi privacidad en línea?&quot; o &quot;¿Cómo puedo identificar noticias falsas?&quot;.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;&lt;strong&gt;Contenidos de Aprendizaje:&lt;/strong&gt;&lt;/em&gt; Define los conceptos clave de ciudadanía digital que se abordarán en la acción y de ser el caso otros contenidos del currículo con los que vayas a trabajar.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;Recursos:&lt;/strong&gt;&lt;/em&gt; Especifica todo lo que necesitarás para llevar a cabo tu acción, apoyo de otras personas o actores, recursos físicos,  los materiales que necesitarás: imágenes, textos, videos, materiales para manualidades, etc.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Recursos:&lt;/strong&gt;&lt;/em&gt; Específica todo lo que necesitarás para llevar a cabo tu acción, apoyo de otras personas o actores, recursos físicos, los materiales que necesitarás: imágenes, textos, vídeos, materiales para manualidades, etc.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;&lt;strong&gt;Organización:&lt;/strong&gt;&lt;/em&gt; Planifica la logística de la acción: ¿Trabajarán en grupos? ¿Cuánto tiempo durará cada actividad? ¿Qué roles tendrán los estudiantes?&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;&lt;strong&gt;Herramientas TIC:&lt;/strong&gt;&lt;/em&gt; Si tu acción utiliza herramientas digitales, especifica cuáles (plataformas de videoconferencia, herramientas de colaboración en línea, aplicaciones educativas, computadoras, celulares, etc.).&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;&lt;strong&gt;Producto Final a Crear:&lt;/strong&gt;&lt;/em&gt; Describe el producto tangible que los estudiantes crearán durante la acción: un collage, una obra de arte, una presentación, un video, un blog, etc.&lt;/li&gt;
@@ -434,6 +438,8 @@
                              <string value=""></string>
                              <string role="key" value="anchor_names"></string>
                              <list></list>
+                             <string role="key" value="anchors_linked_from_fields"></string>
+                             <dictionary></dictionary>
                              <string role="key" value="content_w_resourcePaths"></string>
                              <unicode content="true" value=""></unicode>
                              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -458,7 +464,7 @@
                              <string role="key" value="nextImageId"></string>
                              <int value="0"></int>
                              <string role="key" value="parentNode"></string>
-                             <none></none>
+                             <reference key="7"></reference>
                             </dictionary>
                            </instance>
                           </list>
@@ -559,6 +565,8 @@
                              <string value=""></string>
                              <string role="key" value="anchor_names"></string>
                              <list></list>
+                             <string role="key" value="anchors_linked_from_fields"></string>
+                             <dictionary></dictionary>
                              <string role="key" value="content_w_resourcePaths"></string>
                              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Para obtener una copia del &quot;Canva de Aplicación de Acción Transformadora&quot;, da un &lt;a href=&quot;https://app.genially.com/reuse/664e9ddca02b3700154f90f6?from=view_exclusive&quot;&gt;clic aquí&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
                              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -583,7 +591,7 @@
                              <string role="key" value="nextImageId"></string>
                              <int value="0"></int>
                              <string role="key" value="parentNode"></string>
-                             <none></none>
+                             <reference key="7"></reference>
                             </dictionary>
                            </instance>
                           </list>
@@ -676,7 +684,7 @@
                                <string role="key" value="_storageName"></string>
                                <string value="Canva Accion Transormadora.pdf"></string>
                                <string role="key" value="_userName"></string>
-                               <string value="/Users/marcelosotaminga/Desktop/Caja Herramientas/Canva Accio\xcc\x81n Transormadora.pdf"></string>
+                               <string value="/var/folders/_0/bnqn17p10xl6yqvm5nwdp9r80000gn/T/tmpOymuMm/Canva Accion Transormadora.pdf"></string>
                                <string role="key" value="checksum"></string>
                                <string value="6278777634752d95cf827cbc48ebfee5"></string>
                                <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -735,7 +743,7 @@
                             <string role="key" value="nextImageId"></string>
                             <int value="0"></int>
                             <string role="key" value="parentNode"></string>
-                            <none></none>
+                            <reference key="7"></reference>
                            </dictionary>
                           </instance>
                           <string role="key" value="lastIdevice"></string>
@@ -861,6 +869,8 @@
                              <string value=""></string>
                              <string role="key" value="anchor_names"></string>
                              <list></list>
+                             <string role="key" value="anchors_linked_from_fields"></string>
+                             <dictionary></dictionary>
                              <string role="key" value="content_w_resourcePaths"></string>
                              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div style=&quot;width: 100%;&quot;&gt;
 &lt;div style=&quot;position: relative; padding-bottom: 200%; padding-top: 0; height: 0;&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;1600&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; title=&quot;CANVA ABP - Acción Transformadora&quot; frameborder=&quot;0&quot; src=&quot;https://view.genially.com/664e9ddca02b3700154f90f6&quot; type=&quot;text/html&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;allowfullscreen&quot; scrolling=&quot;yes&quot; allownetworking=&quot;all&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
@@ -887,7 +897,7 @@
                              <string role="key" value="nextImageId"></string>
                              <int value="0"></int>
                              <string role="key" value="parentNode"></string>
-                             <none></none>
+                             <reference key="7"></reference>
                             </dictionary>
                            </instance>
                           </list>
@@ -988,6 +998,8 @@
                              <string value=""></string>
                              <string role="key" value="anchor_names"></string>
                              <list></list>
+                             <string role="key" value="anchors_linked_from_fields"></string>
+                             <dictionary></dictionary>
                              <string role="key" value="content_w_resourcePaths"></string>
                              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Para obtener una copia del &quot;Canva de Aplicación de Acción Transformadora&quot;, da un &lt;a href=&quot;https://app.genially.com/reuse/664e9ddca02b3700154f90f6?from=view_exclusive&quot;&gt;clic aquí&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
                              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1012,7 +1024,7 @@
                              <string role="key" value="nextImageId"></string>
                              <int value="0"></int>
                              <string role="key" value="parentNode"></string>
-                             <none></none>
+                             <reference key="7"></reference>
                             </dictionary>
                            </instance>
                           </list>
@@ -1143,6 +1155,8 @@
                              <string value=""></string>
                              <string role="key" value="anchor_names"></string>
                              <list></list>
+                             <string role="key" value="anchors_linked_from_fields"></string>
+                             <dictionary></dictionary>
                              <string role="key" value="content_w_resourcePaths"></string>
                              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div style=&quot;width: 100%;&quot;&gt;
 &lt;div style=&quot;position: relative; padding-bottom: 96.15%; padding-top: 0; height: 0;&quot;&gt;&lt;iframe width=&quot;1040&quot; height=&quot;1000&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; title=&quot;V2-Padlet - Ejemplo Acciones Transformadoras&quot; frameborder=&quot;0&quot; src=&quot;https://view.genially.com/66505cdce90408001402e9c4&quot; type=&quot;text/html&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;allowfullscreen&quot; scrolling=&quot;yes&quot; allownetworking=&quot;all&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
@@ -1169,7 +1183,7 @@
                              <string role="key" value="nextImageId"></string>
                              <int value="0"></int>
                              <string role="key" value="parentNode"></string>
-                             <none></none>
+                             <reference key="22"></reference>
                             </dictionary>
                            </instance>
                           </list>
@@ -1400,6 +1414,8 @@
                                        <string value=""></string>
                                        <string role="key" value="anchor_names"></string>
                                        <list></list>
+                                       <string role="key" value="anchors_linked_from_fields"></string>
+                                       <dictionary></dictionary>
                                        <string role="key" value="content_w_resourcePaths"></string>
                                        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Esta sección te presenta cuatro estrategias didácticas innovadoras y participativas que te ayudarán a abordar la enseñanza de la ciudadanía digital de una manera dinámica y efectiva. Estas estrategias están diseñadas para despertar la curiosidad, el pensamiento crítico y la creatividad de tus estudiantes, convirtiéndolos en ciudadanos digitales responsables y conscientes.&lt;/p&gt;
 &lt;p&gt;¡Elige la estrategia que mejor se adapte a tus objetivos, recursos y contexto educativo!&lt;/p&gt;
@@ -1501,7 +1517,7 @@
                                        <string role="key" value="nextImageId"></string>
                                        <int value="0"></int>
                                        <string role="key" value="parentNode"></string>
-                                       <none></none>
+                                       <reference key="28"></reference>
                                       </dictionary>
                                      </instance>
                                     </list>
@@ -1632,6 +1648,8 @@
                                        <string value=""></string>
                                        <string role="key" value="anchor_names"></string>
                                        <list></list>
+                                       <string role="key" value="anchors_linked_from_fields"></string>
+                                       <dictionary></dictionary>
                                        <string role="key" value="content_w_resourcePaths"></string>
                                        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;¿Buscas inspiración, información confiable y materiales didácticos para desarrollar tus acciones para el fomento de la ciudadanía digital y la ciberseguridad? ¡Estás en el lugar correcto!&lt;/p&gt;
 &lt;p&gt;En esta sección, te presentamos un repositorio digital repleto de recursos educativos cuidadosamente seleccionados para ayudarte a abordar la temática de forma integral y atractiva.&lt;/p&gt;
@@ -1675,7 +1693,7 @@
                                        <string role="key" value="nextImageId"></string>
                                        <int value="0"></int>
                                        <string role="key" value="parentNode"></string>
-                                       <none></none>
+                                       <reference key="32"></reference>
                                       </dictionary>
                                      </instance>
                                     </list>
@@ -1776,6 +1794,8 @@
                                        <string value=""></string>
                                        <string role="key" value="anchor_names"></string>
                                        <list></list>
+                                       <string role="key" value="anchors_linked_from_fields"></string>
+                                       <dictionary></dictionary>
                                        <string role="key" value="content_w_resourcePaths"></string>
                                        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div style=&quot;width: 100%;&quot;&gt;
 &lt;div style=&quot;position: relative; padding-bottom: 125%; padding-top: 0; height: 0;&quot;&gt;&lt;iframe width=&quot;1200&quot; height=&quot;1500&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; title=&quot;V2- Padlet - Recursos Caja de Herramientas&quot; frameborder=&quot;0&quot; src=&quot;https://view.genially.com/66505530c08cb400149c3881&quot; type=&quot;text/html&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;allowfullscreen&quot; scrolling=&quot;yes&quot; allownetworking=&quot;all&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
@@ -1802,7 +1822,7 @@
                                        <string role="key" value="nextImageId"></string>
                                        <int value="0"></int>
                                        <string role="key" value="parentNode"></string>
-                                       <none></none>
+                                       <reference key="32"></reference>
                                       </dictionary>
                                      </instance>
                                     </list>
@@ -1873,6 +1893,8 @@
                           <string value=""></string>
                           <string role="key" value="anchor_names"></string>
                           <list></list>
+                          <string role="key" value="anchors_linked_from_fields"></string>
+                          <dictionary></dictionary>
                           <string role="key" value="content_w_resourcePaths"></string>
                           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;exe-node:Caja%20de%20Herramientas%20para%20la%20Ciudadan%C3%ADa%20Digital:%C2%BFCu%C3%A1les%20son%20los%20componentes%20de%20esta%20Caja%20de%20Herramientas%3F:Estrategias%20para%20fomentar%20la%20ciudadan%C3%ADa%20digital%20y%20ciberseguridad#auto_top&quot;&gt;Estrategias para fomentar la Ciudadanía Digital&lt;/a&gt;&lt;/li&gt;
@@ -1988,6 +2010,8 @@
                                    <string value=""></string>
                                    <string role="key" value="anchor_names"></string>
                                    <list></list>
+                                   <string role="key" value="anchors_linked_from_fields"></string>
+                                   <dictionary></dictionary>
                                    <string role="key" value="content_w_resourcePaths"></string>
                                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&lt;strong&gt;Fotos y Videos: &lt;/strong&gt;&lt;/em&gt;Capturar momentos clave de la implementación de la estrategia.&lt;/li&gt;
@@ -2021,7 +2045,7 @@
                                    <string role="key" value="nextImageId"></string>
                                    <int value="0"></int>
                                    <string role="key" value="parentNode"></string>
-                                   <none></none>
+                                   <reference key="37"></reference>
                                   </dictionary>
                                  </instance>
                                 </list>
@@ -2122,6 +2146,8 @@
                                    <string value=""></string>
                                    <string role="key" value="anchor_names"></string>
                                    <list></list>
+                                   <string role="key" value="anchors_linked_from_fields"></string>
+                                   <dictionary></dictionary>
                                    <string role="key" value="content_w_resourcePaths"></string>
                                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div style=&quot;width: 100%;&quot;&gt;
 &lt;div style=&quot;position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;&quot;&gt;&lt;iframe width=&quot;1200&quot; height=&quot;675&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; title=&quot;Caja Herramientas RRSS&quot; frameborder=&quot;0&quot; src=&quot;https://view.genially.com/664f160ea5445800148ff955&quot; type=&quot;text/html&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;allowfullscreen&quot; scrolling=&quot;yes&quot; allownetworking=&quot;all&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
@@ -2148,7 +2174,7 @@
                                    <string role="key" value="nextImageId"></string>
                                    <int value="0"></int>
                                    <string role="key" value="parentNode"></string>
-                                   <none></none>
+                                   <reference key="37"></reference>
                                   </dictionary>
                                  </instance>
                                 </list>
@@ -2269,6 +2295,8 @@
                                      <string value=""></string>
                                      <string role="key" value="anchor_names"></string>
                                      <list></list>
+                                     <string role="key" value="anchors_linked_from_fields"></string>
+                                     <dictionary></dictionary>
                                      <string role="key" value="content_w_resourcePaths"></string>
                                      <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Documentar y difundir tu experiencia al usar la &quot;Caja de Herramientas para la Ciudadanía Digital&quot; no se trata solo de mostrar tu trabajo, sino de contribuir a la construcción de una comunidad de aprendizaje y a la promoción de una cultura digital más responsable en tu contexto y en el Ecuador.&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
@@ -2308,7 +2336,7 @@
                                      <string role="key" value="nextImageId"></string>
                                      <int value="0"></int>
                                      <string role="key" value="parentNode"></string>
-                                     <none></none>
+                                     <reference key="42"></reference>
                                     </dictionary>
                                    </instance>
                                   </list>
@@ -2373,7 +2401,7 @@
                           <string role="key" value="nextImageId"></string>
                           <int value="0"></int>
                           <string role="key" value="parentNode"></string>
-                          <none></none>
+                          <reference key="29"></reference>
                          </dictionary>
                         </instance>
                         <reference key="4"></reference>
@@ -2386,7 +2414,7 @@
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <none></none>
+                    <reference key="19"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2521,9 +2549,11 @@
                     <string value=""></string>
                     <string role="key" value="anchor_names"></string>
                     <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;La &quot;Caja de Herramientas para la Ciudadanía Digital&quot; es un recurso vivo y en constante evolución. Su uso en diferentes contextos educativos contribuirá a su enriquecimiento y a la construcción de una cultura digital más responsable, segura e inclusiva para todos.&lt;/p&gt;
-&lt;p&gt;La manera en que se ha propuesto implementarla se articula a 2 contextos muy bien definidos, por un lado, como una actividad propuesta dentro del curso &quot;Guardianes Digitales en la Educación&quot; brindado por el Ministerio de Educación dentro de su plataforma &quot;Me Capacito&quot; y por el otro lado, pensando en cualquier docente o facilitador que busque fortalecer aspectos sobre ciudadanía digital y ciberseguridad mediante acciones puntuales -Acción Transformadora- dirigidas a niños, niñas y adolescentes en diversos contextos educativos.&lt;/p&gt;
+&lt;p&gt;La manera en que se ha propuesto implementarla se articula a 2 contextos muy bien definidos, por un lado, como una actividad propuesta dentro del curso &quot;Guardianes Digitales en la Educación&quot; brindado por el Ministerio de Educación dentro de su plataforma &quot;Mecapacito&quot; y por el otro lado, pensando en cualquier docente o facilitador que busque fortalecer aspectos sobre ciudadanía digital y ciberseguridad mediante acciones puntuales -Acción Transformadora- dirigidas a niños, niñas y adolescentes en diversos contextos educativos.&lt;/p&gt;
 &lt;p&gt;A continuación, te invitamos a que conozcas con más detalles:&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-accordion&quot;&gt;
 &lt;h2&gt;Articulación como &quot;Acción Transformadora&quot; al curso &quot;Guardianes Digitales en la Educación&quot;&lt;/h2&gt;
@@ -2586,7 +2616,7 @@
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <none></none>
+                    <reference key="45"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2721,6 +2751,8 @@
                     <string value=""></string>
                     <string role="key" value="anchor_names"></string>
                     <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Brindar a los educadores estrategias prácticas y recursos para integrar la ciudadanía digital y ciberseguridad en sus prácticas pedagógicas, de manera que puedan empoderar a los niños, niñas y adolescentes para que sean ciudadanos digitales responsables, críticos y éticos.&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2745,7 +2777,7 @@
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <none></none>
+                    <reference key="48"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2846,6 +2878,8 @@
                     <string value=""></string>
                     <string role="key" value="anchor_names"></string>
                     <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;La secuencia metodológica para emplear esta caja de herramientas requiere que el docente o facilitador realice estos pasos:&lt;/p&gt;
 &lt;ul&gt;
@@ -2879,7 +2913,7 @@
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <none></none>
+                    <reference key="48"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -3012,6 +3046,8 @@
                     <string value=""></string>
                     <string role="key" value="anchor_names"></string>
                     <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Esta &quot;Caja de Herramientas para la Ciudadanía Digital&quot; se publica bajo la licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://i.imgur.com/A0Aexkn.png&quot; width=&quot;500&quot; height=&quot;230&quot; /&gt;&lt;/p&gt;
@@ -3063,7 +3099,7 @@
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <none></none>
+                    <reference key="53"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -3164,6 +3200,8 @@
                     <string value=""></string>
                     <string role="key" value="anchor_names"></string>
                     <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div style=&quot;width: 100%;&quot;&gt;
 &lt;div style=&quot;position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;&quot;&gt;&lt;iframe width=&quot;1200&quot; height=&quot;675&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; title=&quot;Créditos&quot; frameborder=&quot;0&quot; src=&quot;https://view.genially.com/6650645de9040800140497d2&quot; type=&quot;text/html&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;allowfullscreen&quot; scrolling=&quot;yes&quot; allownetworking=&quot;all&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
@@ -3190,7 +3228,7 @@
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <none></none>
+                    <reference key="53"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -3245,7 +3283,7 @@
            <string role="key" value="nextImageId"></string>
            <int value="0"></int>
            <string role="key" value="parentNode"></string>
-           <none></none>
+           <reference key="25"></reference>
           </dictionary>
          </instance>
         </list>
@@ -3346,7 +3384,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="48"></reference>
+  <reference key="42"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
